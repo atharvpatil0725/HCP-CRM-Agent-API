@@ -71,18 +71,8 @@ The system helps reps log calls, track engagement, generate compliant reports, a
 ---
 
 ## Project Structure
-hcp-crm-frontend/
-├── src/
-│   ├── App.jsx              # Modern dashboard with Recharts + Lucide
-│   ├── main.jsx
-│   └── index.css
-├── index.html
-├── vite.config.js
-├── package.json
-├── postcss.config.js
-├── tailwind.config (via PostCSS)
-├── eslint.config.js
-└── hcp_crm_agent.py         # Backend AI Agent
+<img width="781" height="288" alt="image" src="https://github.com/user-attachments/assets/da56e6e3-a358-4573-aab1-c80ba2a8d562" />
+
 
 
 ---
